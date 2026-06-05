@@ -6,5 +6,5 @@ purchases, journeys, delays, prices, payment methods, and customer attributes. T
 The Data source for this challenge was provided by UTIVA, the company who hosted the Challenge. It was in an Excel format.
 
 ## Tools Used
-## Microsoft excel
-## Microsoft Powerbi
+Microsoft excel
+# Microsoft Powerbi
